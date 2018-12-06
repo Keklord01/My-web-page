@@ -1,0 +1,14 @@
+body{
+  background: url(http://a1749.phobos.apple.com/us/r30/Purple/v4/d7/21/6a/d7216a62-c249-d1c6-0e3e-bba92c0c07bd/mzl.unptixru.png)
+}
+
+h1{
+  color:rgb(0, 119, 255);
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+  margin-right: -160px;
+}
+
+a{
+ margin: 200px;
+ color:rgb(0, 119, 255);

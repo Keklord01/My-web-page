@@ -1,0 +1,21 @@
+body{
+  background: url(http://blog.hostbaby.com/wp-content/uploads/2014/03/PaintSquares_1920x1234.jpg);
+}
+
+h1{
+  color:rgb(0, 119, 255);
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+  margin-right: -160px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    
+    
+}
+
+a{
+ margin: 200px;
+ color:rgba(21, 8, 196, 0.822);
